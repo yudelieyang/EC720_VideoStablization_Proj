@@ -31,17 +31,3 @@ vlfeat
     bash create_video.sh
 ```
 
-### Plots
-![alt-text-1](https://raw.githubusercontent.com/ishit/L1Stabilizer/master/plots/motion_x.png "Motion in X") ![alt-text-2](https://raw.githubusercontent.com/ishit/L1Stabilizer/master/plots/motion_y.png "Motion in Y")
-
-## To-Do
-
-- [ ] Wobble suppression
-- [ ] Mitigate rolling shutter troubles
-- [ ] Video retargeting
-- [ ] Saliency tracker(eg. face)
-
-## License
-
-This project is licensed under the GPL v.2 License.
-
